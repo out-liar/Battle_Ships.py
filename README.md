@@ -1,5 +1,5 @@
 # Battle_Ships.py
-A basic form of battleships is coded here using conditionals, loops, a break, lists and others...
+A basic form of battleships is coded here using conditionals, loops, a break, lists and others. The code also checks whether user input is valid.
 
 
 from random import randint
